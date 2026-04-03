@@ -13,4 +13,4 @@ managedNodeGroups:
   spot: true
   desiredCapacity: 2
 
-# eksctl create cluster --config-file=eks.yaml
+# eksctl create cluster --config-file=eks.yaml 
